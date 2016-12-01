@@ -11,7 +11,7 @@ To do that just go to content directory after that put this module into here
 ```
 cd content/modules
 
-git clone git@github.com:phanbook/demo_module.git demo
+git clone git@github.com:phanbook/demo.git demo
 
 ```
 
